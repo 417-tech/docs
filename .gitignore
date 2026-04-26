@@ -1,0 +1,20 @@
+###
+#  Obsidian
+###
+
+.obsidian/workspace.json
+.obsidian/plugins/**/*
+.trash/
+
+###
+#  Python / uv
+###
+
+.python-version
+.venv/
+
+###
+#  Zensical
+###
+
+site/

@@ -1,0 +1,9 @@
+[project]
+name = "417-tech-docs-public"
+version = "0.1.0"
+description = "Public documentation for 417 Tech"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "zensical>=0.0.36",
+]
