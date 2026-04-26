@@ -1,4 +1,5 @@
 ---
-_: "Front matter"
+_: Front matter
 ---
+
 # Public Docs
